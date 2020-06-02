@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: gb-distribution-Alokie
+Version: 0.4.1
+Summary: A small example package
+Home-page: https://github.com/Alokpro1/samplepakage
+Author: Jyotirmaya Mahanta
+Author-email: jyotirmayamahanta16@gmail.com
+License: UNKNOWN
+Description: # Distribution package(not to use in real-time project)
+        
+        Summar of the package
+        =====================
+        
+        # Files
+        
+        Explanation of the files in pkg
+        
+        # Installation
+        
+        Steps:
+        ----------------
+        
+        ----------------
+        
+        # Contribution
+        ----------------
+        
+        
+        ----------------
+        
+        # License
+        =======MIT License======
+        
+        ---------------------------------------
+        =======================================
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

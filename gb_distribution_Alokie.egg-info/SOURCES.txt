@@ -1,0 +1,10 @@
+README.md
+setup.py
+gb_distribution/Binomialdistribution.py
+gb_distribution/Gaussiandistribution.py
+gb_distribution/Generaldistribution.py
+gb_distribution/__init__.py
+gb_distribution_Alokie.egg-info/PKG-INFO
+gb_distribution_Alokie.egg-info/SOURCES.txt
+gb_distribution_Alokie.egg-info/dependency_links.txt
+gb_distribution_Alokie.egg-info/top_level.txt
